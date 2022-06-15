@@ -1,2 +1,6 @@
 # Insertion-Sort-Project
-Insertion Sort Project for patika.dev
+
+"Veri Yapıları ve Algoritmalar" eğitimi kapsamında;
+Insertion Sort Projesi
+
+Gökhan Ercan
